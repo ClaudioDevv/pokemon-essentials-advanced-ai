@@ -1,2 +1,9 @@
-# pokemon-essentials-advanced-ai
-Proyecto Open Source para mejorar la IA de los fangames de pokemon creados con Pokemon Essentials. El objetivo es ayudar a la comunidad y hacer sus juegos más divertidos y competitivos.
+# IA avanzada para Pokémon Essentials v21
+Proyecto en desarrollo...
+
+## Features
+## Requisitos
+## Instalación (3 pasos: descargar el zip, drop en Plugins/, hecho)
+## Cómo funciona
+## Contribución
+
