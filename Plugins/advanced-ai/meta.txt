@@ -1,5 +1,5 @@
 Name       = Advanced IA
-Version    = 1.0
+Version    = 1.0.0
 Essentials = 21
 Link       = https://github.com/ClaudioDevv/pokemon-essentials-advanced-ai
 Credits    = Claudio Rivas

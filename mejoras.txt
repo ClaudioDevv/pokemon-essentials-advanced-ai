@@ -1,0 +1,1 @@
+Se ha observado que en get_score_for_target_stat_raise no tiene en cuenta el porcentaje de vida del pokemon, asi que haría movimientos como danza espada sin importar la vida que tiene, cosa que no tiene sentido porque teniendo poca vida no se hacen movimientos de subir ataques
